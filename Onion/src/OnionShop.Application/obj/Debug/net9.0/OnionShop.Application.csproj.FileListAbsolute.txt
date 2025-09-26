@@ -1,0 +1,16 @@
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\bin\Debug\net9.0\OnionShop.Application.deps.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\bin\Debug\net9.0\OnionShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\bin\Debug\net9.0\OnionShop.Application.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\bin\Debug\net9.0\OnionShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\bin\Debug\net9.0\OnionShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.csproj.AssemblyReference.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.AssemblyInfoInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.AssemblyInfo.cs
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.sourcelink.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionSho.655B1F72.Up2Date
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\refint\OnionShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\OnionShop.Application.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Application\obj\Debug\net9.0\ref\OnionShop.Application.dll

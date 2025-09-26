@@ -1,0 +1,12 @@
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\bin\Debug\net9.0\OnionShop.Domain.deps.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\bin\Debug\net9.0\OnionShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\bin\Debug\net9.0\OnionShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.AssemblyInfoInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.AssemblyInfo.cs
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.sourcelink.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\refint\OnionShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\OnionShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\Onion\src\OnionShop.Domain\obj\Debug\net9.0\ref\OnionShop.Domain.dll
