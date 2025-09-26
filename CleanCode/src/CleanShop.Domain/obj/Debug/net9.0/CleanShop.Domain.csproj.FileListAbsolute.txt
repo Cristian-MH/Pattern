@@ -1,0 +1,12 @@
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.deps.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\bin\Debug\net9.0\CleanShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.AssemblyInfoInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.AssemblyInfo.cs
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.sourcelink.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\refint\CleanShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\CleanShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Domain\obj\Debug\net9.0\ref\CleanShop.Domain.dll

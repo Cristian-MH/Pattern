@@ -1,0 +1,16 @@
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\bin\Debug\net9.0\CleanShop.Application.deps.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\bin\Debug\net9.0\CleanShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\bin\Debug\net9.0\CleanShop.Application.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\bin\Debug\net9.0\CleanShop.Domain.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\bin\Debug\net9.0\CleanShop.Domain.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.csproj.AssemblyReference.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.AssemblyInfoInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.AssemblyInfo.cs
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.sourcelink.json
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanSho.3D05F677.Up2Date
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\refint\CleanShop.Application.dll
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\CleanShop.Application.pdb
+C:\Users\CristianMartinez\Desktop\Personal\New folder\Pattern\CleanCode\src\CleanShop.Application\obj\Debug\net9.0\ref\CleanShop.Application.dll
